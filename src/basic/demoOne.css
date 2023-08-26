@@ -1,0 +1,14 @@
+.head {
+  padding: 10px 30px;
+  cursor: pointer;
+}
+.header {
+  display: flex;
+}
+.blue {
+  color: blue;
+  border-bottom: 2px solid blue;
+}
+.item {
+  display: flex;
+}
